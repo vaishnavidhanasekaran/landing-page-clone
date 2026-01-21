@@ -1,0 +1,266 @@
+body {
+    overflow-x: hidden;
+}
+.logo img {
+    width: 120px;
+    height: 40px; 
+}
+.navbar{
+    display: flex;
+    padding: 10px;
+}
+.nav {
+    align-items: center;
+    word-spacing: 30px;
+    padding: 15px 15px 5px 15px;
+    margin-left: 280px;
+    font-size: large;
+    height: 30px;
+    
+}
+.ppp {
+    padding-top: 20px;
+}
+.ta {
+    margin-top: 20px;
+}
+h5 {
+    margin-left: 300px;
+    margin-top: 10px;
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(2, 101, 2);
+    color: azure;
+}
+h5:hover {
+    background-color: rgb(22, 160, 40);
+}
+h1 {
+    width: 650px;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+span {
+    color: brown;
+}
+.two img {
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+}
+p {
+ margin-left: 30px;   
+ width: 550px;
+}
+.page1 {
+    display: flex;
+    padding-bottom: 40px;
+}
+table {
+    margin-left: 30px;
+}
+table td {
+    width: 40%;   
+}
+.b1, .b2 {
+    padding: 10px;
+    border-radius: 40px;
+    background-color:  rgb(2, 101, 2);
+    border: solid 2px black;
+    color: aliceblue;
+}
+.b1:hover, .b2:hover {
+    background-color: rgb(22, 160, 40);
+}
+.p {
+    margin-left: 10px;
+    font-size: 15px;
+}
+.logos img {
+    width: 50px;
+    height: 35px;
+}
+.page2 {
+    background-color: rgb(246, 242, 238);
+    padding-bottom: 60px;
+}
+.p2 {
+    color: brown;
+    padding-top: 10px;
+}
+.p3 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 55px;
+}
+.t2 h2 {
+    width: 470px;
+}
+.t2 p {
+    margin: 0;
+    width: 500px;
+}
+.t2 button {
+    border: solid 2px black;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color:  rgb(2, 101, 2);
+    color: aliceblue;
+}
+.t2 button:hover {
+    background-color:  rgb(22, 160, 40);
+}
+.t2 img {
+    width: 550px;
+    height: 300px;
+    padding: 30px;
+    padding-left: 75px;
+}
+.t3 img {
+    width: 550px;
+    height: 300px;
+}
+
+.page3{
+    background-color: #000000;
+    color:#ffffff;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+.p5{
+    font-size: 55px;
+}
+.red{
+    color: brown;
+    font-size: 20px;
+}
+.para2 {
+    color: #ffffff;
+    width: 500px;
+    padding: 0;
+}
+.img5 {
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+    margin-left: 60px;
+}
+.ji {
+    display: flex;
+}
+.p6 {
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+    width: 100%;
+}
+.p7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 20px;
+    width: 300px;
+}
+.p8 {
+    font-size: 15px;
+    padding-top: 15px;
+    width: 300px;
+}
+.p9 {
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 25px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border: solid 2px black;
+}
+button:hover {
+    background-color: grey;
+}
+.page4 {
+    display: flex;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.tri {
+    margin-left: 260px;
+}
+.h33 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.p0 {
+    padding-bottom: 15px;
+    font-size: 17px;
+    word-spacing: 3px;
+    margin-left: 0%;
+}
+.page5 {
+    background-color: rgb(215, 220, 225);
+    padding: 120px;
+}
+.p10 {
+    text-align: center;
+    font-size: 60px;
+    width: 100%;
+    font-family: Calibri;
+    font-weight: 800;
+}
+.butt {
+    margin-top: 50px;
+    height: 50px;
+    width: 150px;
+    margin-left: 468px;
+    border-radius: 30px;
+    border: solid 2px black;
+    background-color:  rgb(2, 101, 2);
+}
+.butt:hover {
+    background-color: rgb(22, 160, 40);
+}
+.page6 {
+    background-color: #000000;
+    margin: 0%;
+    padding-bottom: 60px;
+}
+.divv img {
+    width: 120px;
+    height: 40px; 
+    padding-top: 70px;
+    margin-left: 135px;
+}
+.p11 {
+    padding-top: 20px;
+    color: white;
+    width: 200px;
+    margin-left: 100px;
+    font-size: 15px;
+}
+.last {
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.company {
+    color: #ffffff;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 70px;
+    margin-left: 280px;
+}
+footer {
+    display: flex;
+}
+.product {
+    color: #ffffff;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 70px;
+    margin-left: 280px;
+}
