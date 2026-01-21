@@ -1,19 +1,27 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px){
     body {
         overflow-x: hidden;
         max-width: 600px;
-    }  
+    } 
     .nav {
         display: none;
+    }  
+    .h5 {
+        justify-content: end;
     }
-    .page1 {
-        flex-direction: column;
-    } 
-    .ji {
-        flex-direction: column;
+    .one h1 {
+        font-size: 45px;
     }
-    .p6{
+    .p6 {
         display: none;
+    }
+    .page5 {
+        display: grid;
+        grid-template-areas: 'p10''butt';
+        width: 975px;
+    }
+    .page6 {
+        width: 1220px;
     }
 }
 body {
