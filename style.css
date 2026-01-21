@@ -1,3 +1,21 @@
+@media screen and (max-width: 600px) {
+    body {
+        overflow-x: hidden;
+        max-width: 600px;
+    }  
+    .nav {
+        display: none;
+    }
+    .page1 {
+        flex-direction: column;
+    } 
+    .ji {
+        flex-direction: column;
+    }
+    .p6{
+        display: none;
+    }
+}
 body {
     overflow-x: hidden;
 }
