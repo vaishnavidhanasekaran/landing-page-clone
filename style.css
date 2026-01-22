@@ -31,13 +31,24 @@
         margin-left: 0%;
         padding-right: 0%;
     }
+    .tri {
+        margin-left: 0%;
+        font-size: 8px;
+    }
     .page5 {
-        display: grid;
-        grid-template-areas: 'p10''butt';
-        width: 975px;
+        display: flex;
+        flex-direction: column;
     }
     .page6 {
-        width: 1220px;
+        display: flex;
+        flex-direction: column;
+    }
+    .ni {
+        margin-left: 20%;
+    }
+    footer {
+        display: flex;
+        flex-direction: column;
     }
 }
 body {
@@ -230,7 +241,8 @@ button:hover {
     padding-bottom: 60px;
 }
 .tri {
-    margin-left: 260px;
+    margin-left: 10%;
+    font-size: large;
 }
 .h33 {
     padding-top: 15px;
@@ -238,7 +250,7 @@ button:hover {
 }
 .p0 {
     padding-bottom: 15px;
-    font-size: 17px;
+    font-size: 20px;
     word-spacing: 3px;
     margin-left: 0%;
 }
@@ -257,7 +269,7 @@ button:hover {
     margin-top: 50px;
     height: 50px;
     width: 150px;
-    margin-left: 468px;
+    margin-left: 50%;
     border-radius: 30px;
     border: solid 2px black;
     background-color:  rgb(2, 101, 2);
@@ -294,7 +306,7 @@ button:hover {
     line-height: 30px;
     text-align: center;
     padding-top: 70px;
-    margin-left: 280px;
+    margin-left: 20%;
 }
 footer {
     display: flex;
@@ -304,5 +316,5 @@ footer {
     line-height: 30px;
     text-align: center;
     padding-top: 70px;
-    margin-left: 280px;
+    margin-left: 20%;
 }
